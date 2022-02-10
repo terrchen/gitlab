@@ -218,7 +218,7 @@
     "md5": "^2.2.1",
     "miragejs": "^0.1.40",
     "mock-apollo-client": "^0.5.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.4",
     "postcss": "^7.0.14",
     "prettier": "2.2.1",
