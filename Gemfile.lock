@@ -624,7 +624,7 @@ GEM
       atlassian-jwt
       multipart-post
       oauth (~> 0.5, >= 0.5.0)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     js_regex (3.4.0)
       character_set (~> 1.4)
       regexp_parser (~> 1.5)
