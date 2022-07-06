@@ -135,7 +135,7 @@
     "prosemirror-model": "^1.6.4",
     "raphael": "^2.2.7",
     "raw-loader": "^4.0.2",
-    "select2": "3.5.2-browserify",
+    "select2": "4.0.6",
     "smooshpack": "^0.0.62",
     "sortablejs": "^1.10.2",
     "sql.js": "^0.4.0",
