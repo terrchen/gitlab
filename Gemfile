@@ -29,7 +29,7 @@ gem 'devise', '~> 4.7.2'
 gem 'bcrypt', '3.1.12'
 gem 'doorkeeper', '~> 5.5.0.rc2'
 gem 'doorkeeper-openid_connect', '~> 1.7.5'
-gem 'omniauth', '~> 1.8'
+gem 'omniauth', '~> 1.9'
 gem 'omniauth-auth0', '~> 2.0.0'
 gem 'omniauth-azure-activedirectory-v2', '~> 0.1'
 gem 'omniauth-azure-oauth2', '~> 0.0.9' # Deprecated v1 version
